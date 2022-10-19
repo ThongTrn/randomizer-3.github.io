@@ -27,7 +27,7 @@ let button;
 
 function preload() {
   for (let i = 1; i <= 4; i++) {
-    (dog)[i] = loadImage('assets/dog_' + i + '.jpg')
+    (dog)[i] = loadImage('assets/dog__' + i + '.jpg')
   }
 }
 
